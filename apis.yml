@@ -39,7 +39,6 @@ apis:
   - name: RoboHash
     description: "Generate random robot/alien avatars"
     humanURL: https://robohash.org/
-    baseURL: https://robohash.org/
     tags:
       - Test Data
     properties:
